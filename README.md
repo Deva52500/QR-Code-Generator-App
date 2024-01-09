@@ -1,3 +1,6 @@
+# This project is deployed on GitHub, please find the link bellow.
+Link: https://deva52500.github.io/QR-Code-Generator-App/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
